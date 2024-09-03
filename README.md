@@ -1,6 +1,6 @@
 # Render.com URL :
 
-https://wildlens-backend-9ynp.onrender.com
+https://wildlens-backend-cm9t.onrender.com
 
 # API Routes
 

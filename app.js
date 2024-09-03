@@ -15,8 +15,8 @@ const config = require('./utils/config');
 const app = express();
 
 app.use(cors({
-    // origin: 'https://unique-sorbet-9172d3.netlify.app', 
-    origin: 'http://localhost:5173', // Allow only this origin
+    origin: 'https://wondrous-palmier-a4cf7c.netlify.app/', 
+    // origin: 'http://localhost:5173', // Allow only this origin
     credentials: true                 // Allow cookies and authentication headers
 }));
 
