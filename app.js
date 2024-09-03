@@ -15,7 +15,7 @@ const config = require('./utils/config');
 const app = express();
 
 app.use(cors({
-    origin: 'https://wondrous-palmier-a4cf7c.netlify.app/', 
+    origin: 'https://wondrous-palmier-a4cf7c.netlify.app', 
     // origin: 'http://localhost:5173', // Allow only this origin
     credentials: true                 // Allow cookies and authentication headers
 }));
